@@ -4,6 +4,7 @@ public class BuffmanMain {
     }
 
     public static void main(String[] args) {
+        System.out.println("Running Buffman enlightenment program");
         new BuffmanMain();
     }
 }
